@@ -1,0 +1,7 @@
+.idea/*
+*.curl
+*.sh
+*.tar
+tags
+anki-tts
+.DS_Store
